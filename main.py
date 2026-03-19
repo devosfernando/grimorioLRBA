@@ -8,9 +8,9 @@ import scripts.request_multi as request_multi
 import scripts.clone_glo as clone_glo
 
 
-# artifact.initialize()
-# excel.initialize()
-# generate.initialize()
-# request_multi.initialize(constants.COOKIE_LRBA)
+artifact.initialize()
+excel.initialize()
+generate.initialize()
+request_multi.initialize(constants.COOKIE_LRBA)
 clone_glo.initialize()
 pom.initialize()
